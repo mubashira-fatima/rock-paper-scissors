@@ -1,0 +1,5 @@
+This is a rock-paper-scissors game. 
+Two players can choose either of these signs. With rock, you can be the winner if the 
+opponent has a scissor but if it's a paper it will stick on rock and make you lose.
+On Taking scissor, you can cut a paper but not a rock. Similarly, a paper can be defeated by a scissor but not a rock.
+Enjoy your game!
